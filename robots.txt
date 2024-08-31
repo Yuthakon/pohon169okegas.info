@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://www.pohon169okegas.info/sitemap.xml
